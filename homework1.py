@@ -1,6 +1,6 @@
 # CIS 2348 Homework 1 Fall 2020.
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: 
 # Birthday Calculator
 # Coding Problem 1 - Calculating the age of a person based on current date and the birthday of the user.
 
