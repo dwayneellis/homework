@@ -1,6 +1,6 @@
 # CIS 2348 Homework 1 Fall 2020.
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: 
 # Lab 2.19
 
 # Prompt user for number of cups of lemon juice, water, and agave nectar needed to make lemonade
